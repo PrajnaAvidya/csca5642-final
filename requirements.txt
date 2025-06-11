@@ -1,0 +1,13 @@
+pandas
+numpy
+librosa
+tqdm
+matplotlib
+seaborn
+torch
+torchaudio
+torchmetrics[image]
+torch-fidelity
+scipy
+frechet_audio_distance
+vastai
